@@ -1,1 +1,1 @@
-some intresting python codes!
+few intresting python codes!
